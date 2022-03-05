@@ -2,6 +2,7 @@
 Goal : Collect white lanterns before the time runs out
 -------------------------
 W-A-S-D -----> Movement
+-------------------------
 B-M-N -----> Change Camera
 -------------------------
 
