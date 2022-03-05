@@ -1,4 +1,5 @@
 #Japanese-Xmas
+-------------------------
 Goal : Collect white lanterns before the time runs out
 -------------------------
 W-A-S-D -----> Movement
