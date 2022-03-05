@@ -1,0 +1,5 @@
+﻿  OpenGL3DTemplate.cpp
+C:\Users\ziadd\Desktop\New folder\GUC_312_55_12206_2021-11-04T16_03_00\OpenGL3DTemplate_24784\OpenGL3DTemplate\OpenGL3DTemplate.cpp(143,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ziadd\Desktop\New folder\GUC_312_55_12206_2021-11-04T16_03_00\OpenGL3DTemplate_24784\OpenGL3DTemplate\OpenGL3DTemplate.cpp(1733,28): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\ziadd\Desktop\New folder\GUC_312_55_12206_2021-11-04T16_03_00\OpenGL3DTemplate_24784\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
